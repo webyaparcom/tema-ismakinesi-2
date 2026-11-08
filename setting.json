@@ -1,0 +1,59 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Demir Kule Makine: ekskavatör, vinç ve yükleyici kiralama; operatörlü hizmet, periyodik kontrollü ekipman. (Demo site)",
+    "en": "Demir Kule Machinery: excavator, crane and loader hire; operated service, periodically inspected equipment. (Demo site)",
+    "ar": "دمير كوله للآليات: تأجير حفارات ورافعات وجرافات بخدمة مع مشغّل ومعدات خاضعة للفحص الدوري. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "iş makinesi, vinç kiralama, ekskavatör",
+    "en": "construction machinery, crane hire, excavator",
+    "ar": "آليات إنشائية، تأجير رافعات، حفار"
+  },
+  "category": "Kurumsal",
+  "name": "Demir Kule Makine",
+  "domain": "ismakinesi-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "icon": "icon.png",
+  "theme_color": "#0B4F8A",
+  "publishMode": "static",
+  "phone": "+90 342 000 00 00",
+  "email": "kiralama@demirkule.example",
+  "address": "Sanayi Bölgesi 2. Cd. No: 40, Şehitkamil, Gaziantep (kurgusal adres)",
+  "font": {
+    "body": "inter",
+    "heading": "source-sans-3",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "6px",
+    "--mx-radius-md": "10px",
+    "--mx-radius-lg": "14px",
+    "--mx-radius-xl": "19px",
+    "--mx-shadow-md": "0 1px 2px rgba(0,0,0,.06)",
+    "--mx-dur": "200ms"
+  }
+}
