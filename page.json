@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "id": "xvk1wofhny",
+      "name": {
+        "tr": "Makine Parkı",
+        "en": "Machine Fleet",
+        "ar": "أسطول الآليات"
+      },
+      "description": {
+        "tr": "Kaldırma ekipmanları periyodik kontrolden geçer; kontrol raporları ve operatör mesleki yeterlilik belgeleri (DEMO) güncel tutulur.",
+        "en": "Lifting equipment goes through periodic inspection; inspection reports and operator vocational qualification certificates (DEMO) are kept current.",
+        "ar": "تخضع معدات الرفع لفحص دوري؛ وتُحدَّث تقارير الفحص وشهادات الكفاءة المهنية للمشغلين (DEMO) باستمرار."
+      },
+      "path": "makine-parki",
+      "icon": "construction",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "je47vi",
+          "kh8ztc",
+          "92tep4"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "ni57710ntm",
+      "name": {
+        "tr": "Teklif Al",
+        "en": "Get a Quote",
+        "ar": "اطلب عرض سعر"
+      },
+      "description": {
+        "tr": "Makine grubunu ve uygun günü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur.",
+        "en": "Choose a machine group and a convenient day; on this demo site your request is created only in your browser.",
+        "ar": "اختر مجموعة الآلية واليوم المناسب؛ يُنشأ طلبك في متصفحك فقط."
+      },
+      "path": "teklif-al",
+      "icon": "request_quote",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "yct2zp"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "d1ouef9k46",
+      "name": {
+        "tr": "Kiralama Koşulları",
+        "en": "Rental Terms",
+        "ar": "شروط التأجير"
+      },
+      "description": {
+        "tr": "Operatörlü/operatörsüz kiralama ve periyodik kontrol bilgisi.",
+        "en": "Operated / dry hire and periodic-inspection information.",
+        "ar": "التأجير مع مشغّل أو بدونه ومعلومات الفحص الدوري."
+      },
+      "path": "kiralama-kosullari",
+      "icon": "gavel",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "y1snvv"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "zo8d1bgkhl",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Makine parkı ve şantiye görüntüleri; temsilidir.",
+        "en": "Fleet and site images; illustrative.",
+        "ar": "صور الأسطول والمواقع؛ توضيحية."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "t0u8sa"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "xnzu5au0ag",
+      "url": "",
+      "path": "iletisim",
+      "index": 4,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "75a0mt",
+          "b920a7"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon, e-posta ve çalışma saatleri.",
+        "en": "Address, phone, e-mail and opening hours.",
+        "ar": "العنوان والهاتف والبريد الإلكتروني وساعات العمل."
+      }
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "detail": true,
+    "body": true
+  }
+}
