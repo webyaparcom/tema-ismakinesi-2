@@ -465,6 +465,12 @@
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
           "ar": "(يفتح في علامة تبويب جديدة)"
+        },
+        "girisHref": "",
+        "girisText": {
+          "tr": "Üye Girişi",
+          "en": "Login",
+          "ar": "تسجيل الدخول"
         }
       },
       "id": "mzgfmh",
@@ -518,7 +524,10 @@
           "en": "Weekdays 07:30 – 18:30 · 24/7 emergency line",
           "ar": "أيام الأسبوع 07:30 – 18:30 · خط طوارئ على مدار الساعة"
         },
-        "social": []
+        "social": [],
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "color": "var(--mx-site-text, #1b1b1b)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 14%, transparent)"
       },
       "data": [],
       "id": "focj3d",
